@@ -1,0 +1,16 @@
+{
+  "name": "webpack-dev-middleware-bug",
+  "version": "0.0.1",
+  "description": "Demonstrates a bug in webpack-dev-middleware",
+  "main": "index.js",
+  "author": "Henrik Wenz <HaNdTriX@gmail.com> (https://github.com/HaNdTriX)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "webpack": "^4.19.1",
+    "webpack-dev-middleware": "^3.3.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
